@@ -7,10 +7,8 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
-const kk = fkd
 app.get('/', (req: Request, res: Response) => {
   res.send('Working Successfully...')
-  const po = 12
 })
 
 export default app
