@@ -12,6 +12,13 @@
     "lint-prettier": "yarn lint:check && yarn prettier:check",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "lint-staged": {
+    "src/**/*.ts": "yarn lint-prettier",
+    "*.js": [
+      "eslint",
+      "prettier --write"
+    ]
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -23,13 +30,6 @@
     "lint": "^0.8.19",
     "mongodb": "^6.3.0",
     "mongoose": "^8.0.3"
-  },
-  "lint-staged": {
-    "src/**/*.ts": "yarn lint-prettier",
-    "*.js": [
-      "eslint",
-      "prettier --write"
-    ]
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
