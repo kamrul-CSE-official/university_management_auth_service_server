@@ -12,3 +12,17 @@
   label: 'PH',
   timestamp: '2023-12-24T09:34:37.788Z'
 }
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T09:51:47.560Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T09:51:47.571Z'
+}
