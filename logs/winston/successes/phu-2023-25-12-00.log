@@ -1,0 +1,42 @@
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:00:44.135Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:00:44.143Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:05:16.621Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:05:16.636Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:05:35.915Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T18:05:35.922Z'
+}

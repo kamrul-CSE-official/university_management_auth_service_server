@@ -1,15 +1,30 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\.1200e461c44aafbb9d228d4f28bc97e3ecbbeea6-audit.json",
-  "files": [
-    {
-      "date": 1703410477745,
-      "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\phu-2023-24-12-15.log",
-      "hash": "59a8830fecf14088772d0c0a0ba50531a0a7dd0186bd984d95499631dc1e8db7"
-    }
-  ],
-  "hashType": "sha256"
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\.1200e461c44aafbb9d228d4f28bc97e3ecbbeea6-audit.json",
+    "files": [
+        {
+            "date": 1703410477745,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\phu-2023-24-12-15.log",
+            "hash": "59a8830fecf14088772d0c0a0ba50531a0a7dd0186bd984d95499631dc1e8db7"
+        },
+        {
+            "date": 1703434506395,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\phu-2023-24-12-22.log",
+            "hash": "13461473936cd6118fc86c9eebe725a7560c03746dd3a9e845a8d90f715f2419"
+        },
+        {
+            "date": 1703439658266,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\phu-2023-24-12-23.log",
+            "hash": "6851e992236244d72d20eabae63eaebded963557636672687524371548304cf1"
+        },
+        {
+            "date": 1703440844097,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\successes\\phu-2023-25-12-00.log",
+            "hash": "4e891857c35c5e24d4f5fbe3b8014701529fc8eadd83512162ec919eb30d047e"
+        }
+    ],
+    "hashType": "sha256"
 }

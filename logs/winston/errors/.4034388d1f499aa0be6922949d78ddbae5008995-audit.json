@@ -1,15 +1,30 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\.4034388d1f499aa0be6922949d78ddbae5008995-audit.json",
-  "files": [
-    {
-      "date": 1703410477749,
-      "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\phu-2023-24-12-15-error.log",
-      "hash": "b83346562be622398a9f92bdc1c1088422689976ca006da54d3e432a575978c1"
-    }
-  ],
-  "hashType": "sha256"
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\.4034388d1f499aa0be6922949d78ddbae5008995-audit.json",
+    "files": [
+        {
+            "date": 1703410477749,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\phu-2023-24-12-15-error.log",
+            "hash": "b83346562be622398a9f92bdc1c1088422689976ca006da54d3e432a575978c1"
+        },
+        {
+            "date": 1703434506407,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\phu-2023-24-12-22-error.log",
+            "hash": "de1742c7a2efe44078de0603a7014fbe6b6ffe25affa9f7f5f1dfe7eeb547983"
+        },
+        {
+            "date": 1703439658275,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\phu-2023-24-12-23-error.log",
+            "hash": "f8f69f48fa887a8c26d78a64cee7a084bec3050b4d16e039ebb8a8751c6d20e1"
+        },
+        {
+            "date": 1703440844102,
+            "name": "D:\\Programming\\Next level course\\UniversityManagementSystem\\logs\\winston\\errors\\phu-2023-25-12-00-error.log",
+            "hash": "2e22e042f186364b18e1c3ade2d177662203025141aa42c80dcf136f8175a637"
+        }
+    ],
+    "hashType": "sha256"
 }

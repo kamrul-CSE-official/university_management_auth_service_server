@@ -1,0 +1,210 @@
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:40:58.311Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:40:58.318Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:41:41.023Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:41:41.030Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:41:49.395Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:41:49.403Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:44:57.381Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:44:57.399Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:16.106Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:16.112Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:34.851Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:34.858Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:37.405Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:45:37.415Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:49:15.089Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:49:15.099Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:51:36.622Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:51:36.630Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:20.833Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:20.839Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:36.614Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:36.622Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:51.541Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:52:51.549Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:53:41.993Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:53:42.000Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:59:45.526Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:59:45.533Z'
+}
+{
+  message: 'Database connection successfull 🎁',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:59:58.162Z'
+}
+{
+  message: 'This server is listening port: 5000 🏃',
+  level: 'info',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-12-24T17:59:58.169Z'
+}
